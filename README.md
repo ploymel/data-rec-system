@@ -1,4 +1,4 @@
-# Dataset Recommendation
+# IntelliMatch: Translating Research Intentions into Precision Dataset Recommendations with Contrastive Learning and LLM Re-Ranking
 
 <img src="assets/ui.gif">
 
