@@ -12,6 +12,8 @@
 
 This repository is an implementation of the user-interface from a paper []().
 
+Note: The dataset can be found [here](https://drive.google.com/drive/folders/1BK7_K_e_eDa6qeRcJB8YxGPT9atePJQ8?usp=drive_link).
+
 ## Getting Started <a name = "getting_started"></a>
 
 ### Prerequisites
